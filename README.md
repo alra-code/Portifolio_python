@@ -18,7 +18,7 @@ Aqui estão os projetos disponíveis neste repositório:
 
 - Projeto 1: Curso básico de Python - Hastag treinamento.
 - Projeto 2: Minicurso de análise de dados com Python - Hastag Treinamento.
-- Projeto 3 : Curso Python Análise e envio de email automatico com payhton - Hastag Treinamento.
+- Projeto 3: Curso Python Análise e envio de email automatico com pyhton - Hastag Treinamento.
   
   
 ## Contribuições 🤜🤛
