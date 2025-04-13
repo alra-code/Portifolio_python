@@ -16,6 +16,7 @@ Aqui estão os projetos disponíveis neste repositório:
 - Projeto 3: Curso Python Análise e envio de email automatico com pyhton - Hastag Treinamento.
 - Projeto 4: Análise de dados com python- Modulo 1 - Tic em Trilhas.
 - Projeto 5: Análise de dados com python- Modulo 2 (lendo arquivos) - Tic em Trilhas.
+- Projeto 6: Análise de dados com python- Modulo 2 (Filtragem, Selecao, Uniao de Tabelas) - Tic em Trilhas.
   
   
 ## Contribuições 🤜🤛
