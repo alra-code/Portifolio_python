@@ -18,6 +18,7 @@ Aqui estão os projetos disponíveis neste repositório:
 - Projeto 5: Análise de dados com python- Modulo 2 (lendo arquivos) - Tic em Trilhas.
 - Projeto 6: Análise de dados com python- Modulo 2 (Filtragem, Selecao, Uniao de Tabelas) - Tic em Trilhas.
 - Projeto 7: Análise de dados com python- modulo 2 (Lidando com dados faltantes) - Tic em Trilhas.
+- projeto 8: Análise de dados com python- modulo 2 (Média, Mediana e Moda) - Tic em Trilhas.
 
     
   
