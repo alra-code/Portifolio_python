@@ -20,6 +20,7 @@ Aqui estão os projetos disponíveis neste repositório:
 - Projeto 7: Análise de dados com python- modulo 2 (Lidando com dados faltantes) - Tic em Trilhas.
 - projeto 8: Análise de dados com python- modulo 2 (Média, Mediana e Moda) - Tic em Trilhas.
 - projeto 9: Análise de dados com python- modulo 2 (Variância e Desvio Padrão) - Tic em Trilhas.
+- projeto 10: projeto 9: Análise de dados com python- modulo 2 (Análise Descritiva dos dados) - Tic em Trilhas.
 
     
   
