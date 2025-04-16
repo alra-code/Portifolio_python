@@ -23,6 +23,7 @@ Aqui estão os projetos disponíveis neste repositório:
 - projeto 10: Análise de dados com python- modulo 2 (Análise Descritiva dos dados) - Tic em Trilhas.
 - projeto 11: Análise de dados com python- modulo 3 (Gráficos com Matplotlib) - Tic em Trilhas.
 - projeto 12: Análise de dados com python- modulo 3 (Histograma com Matplotlib) - Tic em Trilhas.
+- projeto 13: Análise de dados com python- modulo 3 (Boxplot com Matplotlib) - Tic em Trilhas.
 
     
   
